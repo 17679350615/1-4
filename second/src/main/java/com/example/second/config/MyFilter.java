@@ -15,7 +15,8 @@ import java.util.Collection;
 import java.util.List;
 
 @Component
-public class MyFilter implements FilterInvocationSecurityMetadataSource {
+public class
+MyFilter implements FilterInvocationSecurityMetadataSource {
 
     @Autowired
     MenuService menuService;
